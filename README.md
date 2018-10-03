@@ -9,5 +9,5 @@ MultiTracker : Multiple Object Tracking using OpenCV (C++/Python) ([blog](https:
 Alpha Bending ([blog](https://www.learnopencv.com/alpha-blending-using-opencv-cpp-python/))
 
 ## Convolutional Neural Network
-Comparision of Different Architectures([blog1](https://medium.com/coinmonks/advancements-of-convolutional-neural-networks-part-2-influential-network-architectures-261c502ce6bd))([blog2](https://pythonmachinelearning.pro/understanding-advanced-convolutional-neural-networks/))([blog3](https://www.topbots.com/14-design-patterns-improve-convolutional-neural-network-cnn-architecture/))
+Comparision of Different Architectures([blog1](https://medium.com/coinmonks/advancements-of-convolutional-neural-networks-part-2-influential-network-architectures-261c502ce6bd))([blog2](https://pythonmachinelearning.pro/understanding-advanced-convolutional-neural-networks/))([blog3](https://www.topbots.com/14-design-patterns-improve-convolutional-neural-network-cnn-architecture/))([Stanford Tutorial](https://www.youtube.com/watch?v=DAOcjicFr1Y&index=10&t=1416s&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk))
 
